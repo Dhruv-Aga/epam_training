@@ -1,2 +1,2 @@
-# epan_training
+# epam_training
 Training project / class work / home work Repo
